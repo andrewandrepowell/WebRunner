@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SlayerKnightFWeb",
   "resources": {
-    "hash": "sha256-R66ajKMOfXjfmfwbKd22FzMRRQUdkAuGRPURGjIcwQA=",
+    "hash": "sha256-6YNtZAwwDde8RbBioKV1sMknilwMu/nsLs3/RBYEJd0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-41ybAfBHs4q5UEJsUbPrp6vCIE/CkroZmkW2lj6XIsA="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-OH8zlJkheyf8H9oAbu0wu1oQm9FKy/BKjDk4Bj/va3s="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-SHTyyJCLSu9MK1vjsPwoAcNUfVMrPwxQZain4oylIfg="
+      "dotnet.native.wasm": "sha256-Le6bg2SmLIREqctqPVvdG6vX4NBJOEpVdXuibHsJ9AE="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -44,7 +44,7 @@
       "Xna.Framework.Content.wasm": "sha256-qJJ0QhqHD/+/ua9mu7ElNea/vL0gdYKOULdCiehAG5M=",
       "Xna.Framework.Devices.wasm": "sha256-ogHy4UwfRGDzyrP0nZOhobBh2jZUmWEhcx7RQYbD42c=",
       "Xna.Framework.Game.wasm": "sha256-nXw4dY0rgiWdxZS4rwBUdDHhXZbcXzxA9VPVvVEko0w=",
-      "Xna.Framework.Graphics.wasm": "sha256-XyHIJX9DOwzMELbaLWARy04BgsYo/gLmSyG1+F+lLOE=",
+      "Xna.Framework.Graphics.wasm": "sha256-zUdUj7jQVsbWDHgL6XR5I3VfmjvbcIuqlCQepd9wCxc=",
       "Xna.Framework.Input.wasm": "sha256-mQtxrpEGTBh7sVL9aWIQF6l3RjmPwbGzCF3Idrm9+Eg=",
       "Xna.Framework.Media.wasm": "sha256-J+1tJag1w6HGnc42hQQQsG8XAq1shF1okgajic+6xTc=",
       "Xna.Framework.Storage.wasm": "sha256-MY35zCQ7q40tRHgEqiin1qu0TWWrg6EE1wC0WNgg/74=",
@@ -79,9 +79,9 @@
       "System.Threading.wasm": "sha256-zCHjAXT5lrB5QCkq7xcrsI3SJnq3lQE+PWB/QkWGmjw=",
       "System.Xml.ReaderWriter.wasm": "sha256-mUPXSmsLZvZt5xy8SwPZYa3amvTq7JDWQ8ldUjhFK0s=",
       "System.Xml.XmlSerializer.wasm": "sha256-duLUPeTeXqWQn7DHYCwZXwj3Dpi7ZAJTb7kNypT0+lo=",
-      "System.Private.CoreLib.wasm": "sha256-qPzIwy0lcRGb2SHIopkKnOmCo5XYHOs92iL3LALmmcA=",
+      "System.Private.CoreLib.wasm": "sha256-EYunapLudlV9nqVErURVVt4R6uYPt03RdJf44eCcgjI=",
       "KNI.Extended.wasm": "sha256-0qrxGc44hOwV+jNe1doSEV+YnDjpkrMald06NAvumsA=",
-      "SlayerKnightFWeb.wasm": "sha256-zIwctdsV67GoNlM9gqg3ACdPzTqUXnyVgQVhHeyn/HQ="
+      "SlayerKnightFWeb.wasm": "sha256-Rb+RYokzKvQWK+W0HSqMcRI4wEp/LVH4dV4HX7KHppc="
     }
   },
   "cacheBootResources": true,
