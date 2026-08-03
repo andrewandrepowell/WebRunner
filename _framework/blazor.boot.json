@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SlayerKnightFWeb",
   "resources": {
-    "hash": "sha256-SuPVWSS8T8jq287/df7b0jzwqelC0P/kln/Iww5mgXo=",
+    "hash": "sha256-TfsM9OtJT5ehAqAF+DX/F9z/JebY8Mr3CgcIeGhIXYo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-41ybAfBHs4q5UEJsUbPrp6vCIE/CkroZmkW2lj6XIsA="
     },
@@ -81,7 +81,7 @@
       "System.Xml.XmlSerializer.wasm": "sha256-duLUPeTeXqWQn7DHYCwZXwj3Dpi7ZAJTb7kNypT0+lo=",
       "System.Private.CoreLib.wasm": "sha256-+Snf/De0PWFBSTbfZIMYy/1Q6fMf4uo1BNQN2BKlv2M=",
       "KNI.Extended.wasm": "sha256-0qrxGc44hOwV+jNe1doSEV+YnDjpkrMald06NAvumsA=",
-      "SlayerKnightFWeb.wasm": "sha256-N3p5GacRozl2Et8cqvflJAj9NqTnq+kYP2XsJprCS5s="
+      "SlayerKnightFWeb.wasm": "sha256-t5a/qFLLHQZRXFEKw+HbOpgliQfwVMrakxEUBPmRuRQ="
     }
   },
   "cacheBootResources": true,
